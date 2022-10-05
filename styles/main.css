@@ -65,17 +65,17 @@ hr {
     padding: 50px;    
 }
 
-#about-me h1{
+#about-me h2{
     font-weight: bold;
     font-size: 35px;
 }
 
-#project h1{
+#project h2{
     font-weight: bold;
     font-size: 35px;
 }
 
-#contacts h1{
+#contacts h2{
     font-weight: bold;
     font-size: 35px;
 }
